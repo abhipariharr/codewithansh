@@ -6,7 +6,7 @@ int main()
     scanf("%d",&a);
     printf("Enter the second number=");
     scanf("%d",&b);
-    printf("sum of two number=%d\n",a+b);
+    printf("sum of %d and %d number=%d\n",a,b,a+b);
     printf("sub of two number=%d\n",a-b);
     printf("mult of two number=%d\n",a*b);
     printf("div of two number=%d",a/b);
